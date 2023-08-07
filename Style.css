@@ -1,0 +1,15 @@
+
+body 
+{
+    max-width: 600px;
+    margin: 30px auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: tomato;
+    background-color: peachpuff;
+}
+
+h1
+{
+    color: maroon;
+}
